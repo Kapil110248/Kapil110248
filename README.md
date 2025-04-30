@@ -4,7 +4,7 @@
 - 🌱 Currently learning and building projects using React, Node.js, Express, and MongoDB.
 - 💼 Actively looking for internship opportunities to apply my skills in real-world projects.
 - 🤝 I’m open to collaborate on full-stack web development projects.
-- 📫 You can reach me at: **kapilpatidar.dev@gmail.com**
+- 📫 You can reach me at: **kapilpatidarkapilo812@gmail.com**
 - 💻 Portfolio: [Your portfolio link here]
 - ⚡ Fun fact: I love turning ideas into real applications and keep refining my code until it feels perfect!
 
